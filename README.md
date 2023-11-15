@@ -18,8 +18,14 @@ Perform an initial data and exploratory analysis of some of their data in order 
 
 
 ## Description of folders
+
 01 Project managment: Project Brief
+
 02 Data: original Data; Prepared Data. NOTE: The contains of folders has been excluded 
+
 03 Scripts: Contains all the Python coding involved for the entire analysis process
+
 04 Analysis: Report; Test files; Vizualization
+
 05 Send to client: Final report in EXCEL 
+
