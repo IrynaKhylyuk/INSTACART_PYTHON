@@ -5,11 +5,11 @@ Instacart Grocery Basket, an online grocery store that operates through an app. 
 Perform an initial data and exploratory analysis of some of their data in order to derive insights about customer´ purchasing behaviors and suggest strategies for better segmentation, marketing and sales.
 
 ## Data 
-orders (3.4m rows, 206k users)
-products (50k rows)
-order_products__prior (30m+ rows)
-customers (206k rows)
-deptartments (21 rows)
+· orders (3.4m rows, 206k users)
+· products (50k rows)
+· order_products__prior (30m+ rows)
+· customers (206k rows)
+· deptartments (21 rows)
 
 ## Description of folders
 01 Project managment: Project Brief
